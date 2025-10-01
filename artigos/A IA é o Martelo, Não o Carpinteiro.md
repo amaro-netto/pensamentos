@@ -1,7 +1,6 @@
 # A IA é o Martelo, Não o Carpinteiro: Por que a Qualificação Humana é a Defesa Contra o Risco Tecnológico
-#### Por: Amaro Amarante da Silva Netto
-Consultor de Técnologia da Informação.
-##### Itaguaí, RJ, 01 de Outubro de 2025.
+#### Por: Amaro Amarante da Silva Netto - Consultor de Técnologia da Informação.
+##### Itaguaí, RJ - 01 de Outubro de 2025.
 
 ### Introdução
 A ascensão vertiginosa da Inteligência Artificial (IA) generativa dominou as manchetes corporativas e, impulsionada por uma onda de desinformação nas redes sociais e na mídia não especializada, alimentou um receio generalizado sobre o "fim dos empregos" e a iminente demissão em massa por substituição tecnológica. É crucial entender, contudo, que a IA não é uma tecnologia futura; é uma ferramenta presente que cresce exponencialmente e só tende a se tornar mais comum, senão obrigatória, no dia a dia das empresas. Esse pânico é, na verdade, um reflexo da desinformação e da resistência à mudança. Este artigo propõe desmistificar a IA como agente de destruição de vagas e posicioná-la corretamente: a IA é, fundamentalmente, uma ferramenta de potencialização que exige um nível de conhecimento técnico humano sem precedentes. Longe de substituir o profissional, ela está redefinindo as funções e impondo uma nova agenda de qualificação. A verdadeira ameaça não reside na máquina em si, mas na confiança cega nela e na resistência à adaptação por parte de líderes e colaboradores. Analisaremos como a IA, especialmente em áreas críticas como Programação e Tecnologia da Informação (TI), falha e expõe riscos quando desprovida da validação e expertise humana, transformando a substituição irrefletida em um alto risco operacional e financeiro para as empresas.
@@ -9,7 +8,7 @@ A ascensão vertiginosa da Inteligência Artificial (IA) generativa dominou as m
 ### 1. IA: O Fim da Função ou o Fim da Ignorância?
 A narrativa de que a IA substituirá integralmente postos de trabalho ignora o princípio básico de qualquer revolução tecnológica: a automação elimina tarefas repetitivas, mas cria a necessidade de novas habilidades (OCDE, 2024).
 
-Em vez de erradicar empregos, a Inteligência Artificial atua como um multiplicador de produtividade. Ela assume o trabalho monótono — como a análise de grandes volumes de dados, a geração de rascunhos de código ou a resposta a perguntas frequentes — liberando o tempo do profissional para o que é, de fato, insubstituível: o pensamento crítico, a tomada de decisões éticas, a estratégia de negócios e a interação humana complexa.
+Em vez de erradicar empregos, a Inteligência Artificial atua como um multiplicador de produtividade. Ela assume o trabalho monótono, como a análise de grandes volumes de dados, a geração de rascunhos de código ou a resposta a perguntas frequentes, liberando o tempo do profissional para o que é, de fato, insubstituível: o pensamento crítico, a tomada de decisões éticas, a estratégia de negócios e a interação humana complexa.
 
 O Fórum Econômico Mundial (2023) aponta que, para cada emprego extinto pela automação, novos papéis, como engenheiros de prompt, especialistas em ética de IA e analistas de dados avançados, emergem. O desafio, portanto, é a qualificação (reskilling). O profissional que se recusa a aprender a manejar a "ferramenta" de IA se torna obsoleto, não por causa da máquina, mas por sua própria desqualificação em relação ao novo paradigma de trabalho.
 
@@ -57,10 +56,11 @@ A demissão em massa, motivada pela ilusão de substituição total, é uma estr
 Para as empresas, a única decisão sustentável e eticamente responsável é investir massivamente no aprendizado contínuo e no reskilling de seus colaboradores. A IA não vai demitir as pessoas; a falta de adaptação e o ceticismo sobre a necessidade de conhecimento técnico aprofundado o farão.
 
 ##
+
 **Referências**
-- FÓRUM ECONÔMICO MUNDIAL. The Future of Jobs Report 2023. Geneva: WEF, 2023. Disponível em: https://www.weforum.org/publications/the-future-of-jobs-report-2023/. Acesso em: 1 out. 2025.
+- FÓRUM ECONÔMICO MUNDIAL. The Future of Jobs Report 2023. Geneva: WEF, 2023. Disponível em: https://www.weforum.org/publications/the-future-of-jobs-report-2023/.
 - ORGANIZAÇÃO PARA A COOPERAÇÃO E DESENVOLVIMENTO ECONÔMICO (OCDE). Artificial Intelligence and the Future of Skills. Paris: OECD, 2024. Disponível em: https://www.oecd.org/en/about/projects/artificial-intelligence-and-future-of-skills.html.
 - OWASP FOUNDATION. OWASP Top 10 for Large Language Model Applications (LLM Top 10). [S.l.]: OWASP, 2023. Disponível em: https://owasp.org/www-project-top-10-for-large-language-model-applications/.
-- EXAME. Empresas só contratam humanos quando a IA falha, diz estudo. Exame, [S.l.], 2 jun. 2025. Disponível em: https://exame.com/inteligencia-artificial/empresas-so-contratam-humanos-quando-a-ia-falha-diz-estudo/. Acesso em: 1 out. 2025.
+- EXAME. Empresas só contratam humanos quando a IA falha, diz estudo. Exame, [S.l.], 2 jun. 2025. Disponível em: https://exame.com/inteligencia-artificial/empresas-so-contratam-humanos-quando-a-ia-falha-diz-estudo/.
 - SIC NOTÍCIAS. Inteligência Artificial generativa não alcança ganhos relevantes em receita e eficiência em empresas. SIC Notícias, [S.l.], 23 ago. 2025. Disponível em: https://sicnoticias.pt/especiais/inteligencia-artificial/2025-08-23-inteligencia-artificial-generativa-nao-alcanca-ganhos-relevantes-em-receita-e-eficiencia-em-empresas-17aecbfa.
 - TECMUNDO. Empresas agora contratam humanos para refazer e corrigir criações de IA. TecMundo, [S.l.], 8 set. 2025. Disponível em: https://www.tecmundo.com.br/mercado/406884-empresas-agora-contratam-humanos-para-refazer-e-corrigir-criacoes-de-ia.htm.
